@@ -1,0 +1,31 @@
+.slide{
+  background-color: black;
+  width: 800px;
+  height: 200px;
+  overflow: auto;
+  border-radius:5px;
+  color:white;
+}
+button{
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  color: white;
+  background-color:black;
+  border-radius: 50%;
+  
+}
+button:hover {background-color:rgb(9, 134, 244)!important;
+}
+.button:active {
+  background-color: red;
+  box-shadow: 0 5px rgb(102, 102, 102);
+  transform: translateY(4px);
+}
+
+img{
+  height: 500px;
+  width: 500px;
+}
