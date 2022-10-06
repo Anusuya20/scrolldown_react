@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/scrolldown_react/static/css/main.f5ad0365.css",
+    "main.js": "/scrolldown_react/static/js/main.84a487e2.js",
+    "static/js/787.06e0866d.chunk.js": "/scrolldown_react/static/js/787.06e0866d.chunk.js",
+    "static/media/mummy.jpg": "/scrolldown_react/static/media/mummy.ac077152aa8dbab5de29.jpg",
+    "index.html": "/scrolldown_react/index.html",
+    "main.f5ad0365.css.map": "/scrolldown_react/static/css/main.f5ad0365.css.map",
+    "main.84a487e2.js.map": "/scrolldown_react/static/js/main.84a487e2.js.map",
+    "787.06e0866d.chunk.js.map": "/scrolldown_react/static/js/787.06e0866d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5ad0365.css",
+    "static/js/main.84a487e2.js"
+  ]
+}
